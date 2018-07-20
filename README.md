@@ -11,5 +11,4 @@
 ## Author
 
 Jose Caballero 
-
-+	<mailto:jgcaballero@miners.utep.edu>
+- jgcaballero@miners.utep.edu
